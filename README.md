@@ -1,0 +1,2 @@
+# event-MCA-MINU
+projects
